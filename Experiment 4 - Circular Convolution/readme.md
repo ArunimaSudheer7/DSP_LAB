@@ -41,4 +41,10 @@ Applications:
 
 ## RESULT
 
-Performed Circular Convolution using (a) FFT and IFFT; (b) Concentric Circle method; (c) Matrix method and verified result.
+Performed Circular Convolution using 
+
+(a) FFT and IFFT
+
+(b) Concentric Circle method
+
+(c) Matrix method and verified result.
