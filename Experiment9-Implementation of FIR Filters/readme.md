@@ -1,6 +1,6 @@
 ## AIM
 
-Designed filters using Window Methods for:
+Implement various FIR filters using different windows:
 
 1.Low Pass Filter
 
@@ -75,4 +75,4 @@ w(n) = 0.54 - 0.46 * cos(2 * pi * n / 50) Then, compute h(n) = h_ideal(n) * w(n)
 
 ## RESULT
 
-Designed filters using windowed methods.
+Implemented various FIR filters using different windows.
