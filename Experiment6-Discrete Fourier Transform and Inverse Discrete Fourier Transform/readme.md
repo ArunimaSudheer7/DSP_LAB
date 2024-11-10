@@ -90,3 +90,15 @@ IDFT without using Twiddle factor matrix mul plica on:
 IDFT using ifft: 
    
    2.5000 + 0.0000i  -0.5000 - 0.5000i  -0.5000 + 0.0000i  -0.5000 + 0.5000i 
+
+## RESULT
+
+Performed 
+
+1)DFT using inbuilt function and without using inbuilt function. Also plotted magnitude and 
+phase plot of DFT.
+
+2)IDFT using inbuilt function and without using inbuilt function.
+and verified the result.
+
+
