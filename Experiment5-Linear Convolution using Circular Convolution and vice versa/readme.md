@@ -64,3 +64,14 @@ Circular using Linear convolution
 Verification
 
     8     7     6     9
+
+## RESULT
+
+Performed 
+
+a) Linear Convolution using Circular Convolution; 
+
+b) Circular Convolution using Linear Convolution and verified result.
+ 
+
+
